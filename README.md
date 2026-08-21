@@ -11,7 +11,7 @@
 
 **Estudante de Sistemas de Informação · Backend Python & IA** — Belo Horizonte, Brasil (UTC−3)
 
-Cursando o 8º período de Sistemas de Informação na UniBH (formação prevista para o 2º semestre de 2026), com foco em desenvolvimento backend em Python e Inteligência Artificial. Construí sozinho, do zero, sistemas reais ponta a ponta: uma API de recomendação de filmes com Machine Learning, um backend de assistente virtual integrado a LLM, e a reconstrução completa de uma aplicação web em produção. Buscando uma vaga de estágio ou júnior para aplicar essa base técnica em produção e continuar evoluindo.
+Cursando o 8º período de Sistemas de Informação na UniBH (formação prevista para o 2º semestre de 2026), com foco em desenvolvimento backend em Python e Inteligência Artificial. Construí sozinho, do zero, sistemas reais ponta a ponta: uma API de recomendação de filmes com Machine Learning, um backend de assistente virtual integrado a LLM, e a reconstrução completa de uma aplicação web em produção. Co-fundador da [Café Labs](https://cafelabs.net), onde participo da arquitetura e construção de produtos ponta a ponta. Buscando uma vaga de estágio ou júnior para aplicar essa base técnica em produção e continuar evoluindo.
 
 ### 🚀 Building
 
@@ -20,10 +20,18 @@ Cursando o 8º período de Sistemas de Informação na UniBH (formação previst
 - **[Clínac Odontologia](https://github.com/EduOlivi/clinac-odontologia)** — landing page institucional em produção · [site](https://clinac-odontologia.clinacodontologia.workers.dev) · `Next.js` `React` `Supabase` `Cloudflare Workers`
 - **[BlackJack](https://github.com/EduOlivi/BlackJack-21)** & **[Calculadora Python](https://github.com/EduOlivi/calculadora-py)** — jogo de Vinte e Um no navegador e calculadora desktop com interface dark mode
 
+**Na [Café Labs](https://github.com/cafelabscorp):**
+
+- **[Forge](https://github.com/CafeLabsCorp/forge)** — orquestrador + subagentes especialistas do Claude Code pra acelerar a fase de Build de um MVP
+- **[Dindin](https://github.com/CafeLabsCorp/dindin)** — rastreador financeiro pessoal por "envelopes" · [site](https://dindin.cafelabs.net) · `Flutter` `Firebase` `Riverpod`
+- **[Domo](https://github.com/CafeLabsCorp/domo)** — gestão doméstica compartilhada (despensa, lista de compras) · [site](https://domo.cafelabs.net) · `Flutter` `Firebase` `Riverpod`
+
 ### 🛠️ Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -38,6 +46,7 @@ Cursando o 8º período de Sistemas de Informação na UniBH (formação previst
 
 ### 💼 Experiência
 
+- **Café Labs** — Co-fundador (atual): laboratório de infraestrutura e desenvolvimento de software; arquitetura e construção de produtos ponta a ponta.
 - **Notificações PBH** — Auxiliar Administrativo (2 anos): rotinas de registro, conferência e acompanhamento de notificações, com atenção a prazos e conformidade de processos.
 
 ### 📊 GitHub
