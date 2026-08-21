@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="200" src="assets/banner.gif" />
+</div>
+
 <h1 align="center">Eduardo de Oliveira Rodrigues</h1>
 
 <p align="center">
@@ -42,3 +46,12 @@ Cursando o 8º período de Sistemas de Informação na UniBH (formação previst
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=EduOlivi&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduOlivi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+<div align="center">
+  <h3>Social</h3>
+  <a href="https://www.instagram.com/edu_olivi/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="32" alt="instagram logo" />
+  </a>
+</div>
