@@ -23,6 +23,7 @@ Cursando o 8º período de Sistemas de Informação na UniBH (formação previst
 **Na [Café Labs](https://github.com/cafelabscorp):**
 
 - **[Forge](https://github.com/CafeLabsCorp/forge)** — orquestrador + subagentes especialistas do Claude Code pra acelerar a fase de Build de um MVP
+- **[Mind](https://github.com/CafeLabsCorp/mind-template)** — base de conhecimento pessoal versionada, integrada ao Claude Code
 - **[Dindin](https://github.com/CafeLabsCorp/dindin)** — rastreador financeiro pessoal por "envelopes" · [site](https://dindin.cafelabs.net) · `Flutter` `Firebase` `Riverpod`
 - **[Domo](https://github.com/CafeLabsCorp/domo)** — gestão doméstica compartilhada (despensa, lista de compras) · [site](https://domo.cafelabs.net) · `Flutter` `Firebase` `Riverpod`
 
