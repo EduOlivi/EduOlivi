@@ -15,7 +15,7 @@ Cursando o 8º período de Sistemas de Informação na UniBH (formação previst
 
 ### 🚀 Building
 
-- **Astra** — backend de assistente virtual pessoal, integrado a LLM (OpenAI) para responder em linguagem natural sobre lembretes e tarefas · `Python` `FastAPI` `PostgreSQL` `Redis` *(repositório em preparação)*
+- **Alfred** — backend de assistente virtual pessoal, integrado a LLM (OpenAI) para responder em linguagem natural sobre lembretes e tarefas · `Python` `FastAPI` `PostgreSQL` `Redis` *(repositório em preparação)*
 - **[Sistema de Recomendação de Filmes](https://github.com/EduOlivi/A3-montanha)** — filtragem colaborativa e baseada em conteúdo (TF-IDF), matrizes de similaridade pré-calculadas · `Python` `FastAPI` `Scikit-learn`
 - **[Clínac Odontologia](https://github.com/EduOlivi/clinac-odontologia)** — landing page institucional em produção · [site](https://clinac-odontologia.clinacodontologia.workers.dev) · `Next.js` `React` `Supabase` `Cloudflare Workers`
 - **[BlackJack](https://github.com/EduOlivi/BlackJack-21)** & **[Calculadora Python](https://github.com/EduOlivi/calculadora-py)** — jogo de Vinte e Um no navegador e calculadora desktop com interface dark mode
