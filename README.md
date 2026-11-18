@@ -1,67 +1,46 @@
 <div align="center">
-  <img height="200" src="assets/banner.gif" />
+  <img width="100%" src="assets/banner.gif" alt="Eduardo Rodrigues — backend python & ia" />
+
+  <h1>Eduardo de Oliveira Rodrigues</h1>
+
+  <p><b>Dev backend Python & IA</b> · Sistemas de Informação (UniBH, conclusão dez/2026) · Belo Horizonte</p>
+
+  <a href="https://eduolivi.github.io"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-eduolivi.github.io-111111?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/duduolivir"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-duduolivir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:duduolivir@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-duduolivir%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
-
-<h1 align="center">Eduardo de Oliveira Rodrigues</h1>
-
-<p align="center">
-  <a href="mailto:duduolivir@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-duduolivir%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/duduolivir" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-duduolivir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-**Estudante de Sistemas de Informação · Backend Python & IA** — Belo Horizonte, Brasil (UTC−3)
-
-Cursando o 8º período de Sistemas de Informação na UniBH (formação prevista para o 2º semestre de 2026), com foco em desenvolvimento backend em Python e Inteligência Artificial. Construí sozinho, do zero, sistemas reais ponta a ponta: uma API de recomendação de filmes com Machine Learning, um backend de assistente virtual integrado a LLM, e a reconstrução completa de uma aplicação web em produção. Co-fundador da [Café Labs](https://cafelabs.net), onde participo da arquitetura e construção de produtos ponta a ponta. Buscando uma vaga de estágio ou júnior para aplicar essa base técnica em produção e continuar evoluindo.
-
-### 🚀 Building
-
-- **Alfred** — backend de assistente virtual pessoal, integrado a LLM (OpenAI) para responder em linguagem natural sobre lembretes e tarefas · `Python` `FastAPI` `PostgreSQL` `Redis` *(repositório em preparação)*
-- **[Sistema de Recomendação de Filmes](https://github.com/EduOlivi/A3-montanha)** — filtragem colaborativa e baseada em conteúdo (TF-IDF), matrizes de similaridade pré-calculadas · `Python` `FastAPI` `Scikit-learn`
-- **[Clínac Odontologia](https://github.com/EduOlivi/clinac-odontologia)** — landing page institucional em produção · [site](https://clinac-odontologia.clinacodontologia.workers.dev) · `Next.js` `React` `Supabase` `Cloudflare Workers`
-- **[BlackJack](https://github.com/EduOlivi/BlackJack-21)** & **[Calculadora Python](https://github.com/EduOlivi/calculadora-py)** — jogo de Vinte e Um no navegador e calculadora desktop com interface dark mode
-
-**Na [Café Labs](https://github.com/cafelabscorp):**
-
-- **[Forge](https://github.com/CafeLabsCorp/forge)** — orquestrador + subagentes especialistas do Claude Code pra acelerar a fase de Build de um MVP
-- **[Mind](https://github.com/CafeLabsCorp/mind-template)** — base de conhecimento pessoal versionada, integrada ao Claude Code
-- **[Dindin](https://github.com/CafeLabsCorp/dindin)** — rastreador financeiro pessoal por "envelopes" · [site](https://dindin.cafelabs.net) · `Flutter` `Firebase` `Riverpod`
-- **[Domo](https://github.com/CafeLabsCorp/domo)** — gestão doméstica compartilhada (despensa, lista de compras) · [site](https://domo.cafelabs.net) · `Flutter` `Firebase` `Riverpod`
-
-### 🛠️ Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**IA & Dados:** integração com LLMs (OpenAI API), sistemas de recomendação (filtragem colaborativa e baseada em conteúdo), Scikit-learn, Pandas, NumPy.
-
-### 💼 Experiência
-
-- **Café Labs** — Co-fundador (atual): laboratório de infraestrutura e desenvolvimento de software; arquitetura e construção de produtos ponta a ponta.
-- **Notificações PBH** — Auxiliar Administrativo (2 anos): rotinas de registro, conferência e acompanhamento de notificações, com atenção a prazos e conformidade de processos.
-
-### 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EduOlivi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduOlivi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
-<div align="center">
-  <h3>Social</h3>
-  <a href="https://www.instagram.com/edu_olivi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="32" alt="instagram logo" />
-  </a>
-</div>
+Construo sistemas de ponta a ponta, do banco ao deploy, com foco em backend Python e IA aplicada (LLMs, RAG, recomendação). Sou co-fundador da [Café Labs](https://cafelabs.net), onde a gente publica produto de verdade e atende cliente real.
+
+**Procurando:** vaga de estágio ou júnior em backend, IA ou full-stack. BH (presencial/híbrido) ou remoto.
+
+## Projetos
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| **Alfred** | Assistente pessoal no Telegram (texto e áudio): resumo da agenda toda manhã e respostas sobre minha base de conhecimento. Roda em Cloudflare Workers; a v1 era um assistente de voz local com RAG (BM25 + embeddings). | TypeScript, Groq, Cloudflare Workers · v1: Python, Faster-Whisper |
+| **[Clínac Odontologia](https://github.com/EduOlivi/clinac-odontologia)** · [site](https://clinac-odontologia.clinacodontologia.workers.dev) | Site de uma clínica real, em produção: migração de HTML estático para Next.js, painel de leads, Row Level Security testada, backup semanal e proteção antibot. | Next.js, TypeScript, Supabase, Cloudflare Workers |
+| **[Recomendação de Filmes](https://github.com/EduOlivi/A3-montanha)** | API de recomendação com filtragem colaborativa e por conteúdo (TF-IDF), matrizes pré-calculadas. | Python, FastAPI, Scikit-learn, Pandas |
+
+**Na Café Labs** ([org](https://github.com/CafeLabsCorp)):
+
+- **[Dindin](https://github.com/CafeLabsCorp/dindin)** — controle financeiro por envelopes, **[publicado na Google Play](https://play.google.com/store/apps/details?id=com.cafelabs.dindin)** · [site](https://dindin.cafelabs.net) · Flutter, Firebase
+- **[Domo](https://github.com/CafeLabsCorp/domo)** — gestão doméstica compartilhada, **no ar na web** · [site](https://domo.cafelabs.net) · Flutter, Firebase
+- **[Forge](https://github.com/CafeLabsCorp/forge)** — time de subagentes especialistas para o Claude Code, usado para construir MVPs
+- **[Mind](https://github.com/CafeLabsCorp/mind-template)** — base de conhecimento pessoal versionada, integrada ao Claude Code
+
+## Stack
+
+- **Backend:** Python (FastAPI), Java (Spring Boot), PostgreSQL, SQLAlchemy, Redis, Supabase, Firebase
+- **IA & dados:** LLMs (OpenAI, Groq), RAG e busca híbrida, Scikit-learn, Pandas, NumPy
+- **Front & mobile:** TypeScript, React, Next.js, Flutter
+- **Infra:** Git, Docker, Cloudflare Workers, GitHub Actions
+
+## Experiência
+
+- **Café Labs** — Co-fundador e desenvolvedor · atual
+- **Notificações PBH** — Auxiliar administrativo · jan/2024 – jan/2026
+
+Certificado: Introdução à Ciência de Dados (Cisco Networking Academy, 2026) · Inglês básico/intermediário, em curso.
